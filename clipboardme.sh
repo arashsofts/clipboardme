@@ -16,7 +16,6 @@ printf "\e[1;77m| \_____| | | | | | |_) ) |_| ( ( | | |  ( (_| |\e[0m\e[1;92m| |
 printf "\e[1;77m \______)_|_| ||_/|____/ \___/ \_||_|_|   \____|\e[0m\e[1;92m|_|_|_|\____) \e[0m\n"
 printf "\e[1;77m            |_|                                               \e[0m\n"
 
-printf " \e[1;77mv1.1 coded by github.com/thelinuxchoice/clipboardme\e[0m \n"
 
 printf "\n"
 
